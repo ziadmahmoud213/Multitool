@@ -16,7 +16,7 @@ materials:
     d: 4683
     s: 8
   - m: minecraft:netherite
-    d: 6093
+    d: 609355
     s: 9
 # overwrites:
 #   minecraft:diamond_pickaxe: minecraft:cactus
